@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Practical Cyber Attack Detection With Continuous Temporal Graph in Dynamic Network System",
+    "authors": [],
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": 2024,
+    "doi": "10.1109/TIFS.2024.3385321",
+    "keywords": [
+      "GNN",
+      "Anomaly Detection",
+      "Cybersecurity",
+      "Graph",
+      "Dynamic Networks"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "A dynamic provenance graph-based detector for advanced persistent threats",
+    "authors": [],
+    "venue": "Expert Systems with Applications",
+    "year": 2024,
+    "doi": "10.1016/j.eswa.2024.125877",
+    "keywords": [
+      "GNN",
+      "APT",
+      "Anomaly Detection",
+      "Cybersecurity"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+    "authors": [],
+    "venue": "Information Fusion",
+    "year": 2023,
+    "doi": "10.1016/j.inffus.2023.101804",
+    "keywords": [
+      "Agentic AI",
+      "Cybersecurity",
+      "Review"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "AI Agents for Cloud Reliability: Autonomous Threat Detection and Mitigation Aligned with Site Reliability Engineering Principles",
+    "authors": [],
+    "venue": "IEEE ICAIC",
+    "year": 2025,
+    "doi": "10.1109/ICAIC63015.2025.10849322",
+    "keywords": [
+      "Agentic AI",
+      "Cloud Security",
+      "Threat Detection"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "Interdisciplinary Research Project \u2018AI Shield\u2019",
+    "authors": [],
+    "venue": "IEEE CSNet",
+    "year": 2024,
+    "doi": "10.1109/CSNet64211.2024.10851746",
+    "keywords": [
+      "Agentic AI",
+      "Cybersecurity Project",
+      "AI Shield"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "Optimizing Threat Mitigation in Critical Infrastructure through AI-Driven Cybersecurity Solutions",
+    "authors": [],
+    "venue": "IEEE GCCIT",
+    "year": 2024,
+    "doi": "10.1109/GCCIT63234.2024.10862689",
+    "keywords": [
+      "Agentic AI",
+      "Critical Infrastructure",
+      "Cybersecurity"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "TRUST XAI: Model-Agnostic Explanations for AI With a Case Study on IIoT Security",
+    "authors": [],
+    "venue": "IEEE Internet of Things Journal",
+    "year": 2021,
+    "doi": "10.1109/JIOT.2021.3122019",
+    "keywords": [
+      "Explainable AI",
+      "IIoT Security",
+      "Trust"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "Digital Twins-enabled Zero Touch Network: A smart contract and explainable AI integrated cybersecurity framework",
+    "authors": [],
+    "venue": "Future Generation Computer Systems",
+    "year": 2024,
+    "doi": "10.1016/j.future.2024.02.015",
+    "keywords": [
+      "Explainable AI",
+      "Digital Twins",
+      "Zero Touch Network"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "Jamming Detection and Classification in OFDM-Based UAVs via Feature- and Spectrogram-Tailored Machine Learning",
+    "authors": [],
+    "venue": "IEEE Access",
+    "year": 2022,
+    "doi": "10.1109/ACCESS.2022.3150020",
+    "keywords": [
+      "UAV",
+      "Jamming",
+      "Machine Learning",
+      "Security"
+    ],
+    "abstract": "",
+    "img": ""
+  },
+  {
+    "title": "Intelligent Learning Architecture with Hybrid Features for Phishing Detection",
+    "authors": [],
+    "venue": "IEEE ICUFN",
+    "year": 2021,
+    "doi": "10.1109/icufn49451.2021.9528537",
+    "keywords": [
+      "Phishing",
+      "Hybrid Features",
+      "ML",
+      "Security"
+    ],
+    "abstract": "",
+    "img": ""
+  }
+]
