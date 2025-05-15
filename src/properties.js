@@ -9,6 +9,8 @@ var title = 'SurVis Literature Collection';
  * @type {string}
  */
 var dataDir = 'data/';
+var dataFile = 'data/papers.json';
+
 
 /**
  * Relative path to the js directory
